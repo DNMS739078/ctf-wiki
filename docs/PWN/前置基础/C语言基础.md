@@ -1,4 +1,4 @@
-# 0x01 C语言基础
+# C语言基础
 
 ## Before learning
 

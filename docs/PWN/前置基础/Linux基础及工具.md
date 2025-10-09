@@ -1,4 +1,4 @@
-# 0x02 Linux 基础及工具
+# Linux 基础及工具
 
 ## 什么是Linux
 
@@ -196,7 +196,7 @@ git clone https://github.com/pwndbg/pwndbg.git
 # 等待克隆pwndbg结束
 
 cd pwndbg && chmod +x ./setup.sh
-# 每个人可能遇到的问题不太一样，出现问题随时线上线下问我~
+# 每个人可能遇到的问题不太一样，具体问题具体分析
 ```
 
 #### python-pwntools
